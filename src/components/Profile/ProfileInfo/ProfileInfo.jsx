@@ -8,6 +8,9 @@ const ProfileInfo = () => {
       <div>
         <img src='http://www.talencia.cat/mypics/max/15/157792_vaporwave-steam-backgrounds.jpg'></img>
       </div>
+      <div className={classes.descriptionBlock}>
+        ava+description
+      </div>
     </div>
   )
 }
