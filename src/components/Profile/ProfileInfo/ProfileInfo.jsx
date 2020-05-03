@@ -6,7 +6,7 @@ const ProfileInfo = () => {
   return (
     <div>
       <div>
-        <img src='http://www.talencia.cat/mypics/max/15/157792_vaporwave-steam-backgrounds.jpg'></img>
+        <img src='https://cdn.shazoo.ru/309123_Qmr4VVrpmJ_screen_shot_2018_12_07_at_5_05_40_pm.jpg'></img>
       </div>
       <div className={classes.descriptionBlock}>
         ava+description
